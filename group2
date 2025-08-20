@@ -1,0 +1,1647 @@
+# MSc Zoology System Physiology and Biochemistry Notes
+
+ 2. Excretion
+
+ 2.2 Ornithine Cycle (Urea Cycle)
+
+The ornithine cycle, also known as the urea cycle or Krebs-Henseleit cycle, is the primary mechanism for converting toxic ammonia to less harmful urea in mammals.
+
+# Location and Significance
+- Location: Primarily in liver hepatocytes (some steps in mitochondria, others in cytoplasm)
+- Function: Converts ammonia (NH₃) to urea (CO(NH₂)₂)
+- Evolutionary advantage: Allows terrestrial animals to excrete nitrogenous waste with minimal water loss
+
+# Steps of the Ornithine Cycle
+
+Step 1: Formation of Carbamoyl Phosphate
+- Enzyme: Carbamoyl phosphate synthetase I (CPS I)
+- Location: Mitochondrial matrix
+- Reaction: NH₃ + CO₂ + 2ATP → Carbamoyl phosphate + 2ADP + Pi
+- Regulation: Activated by N-acetylglutamate
+
+Step 2: Formation of Citrulline
+- Enzyme: Ornithine transcarbamoylase
+- Location: Mitochondrial matrix
+- Reaction: Carbamoyl phosphate + Ornithine → Citrulline + Pi
+
+Step 3: Formation of Argininosuccinate
+- Enzyme: Argininosuccinate synthetase
+- Location: Cytoplasm
+- Reaction: Citrulline + Aspartate + ATP → Argininosuccinate + AMP + PPi
+
+Step 4: Formation of Arginine
+- Enzyme: Argininosuccinate lyase
+- Location: Cytoplasm
+- Reaction: Argininosuccinate → Arginine + Fumarate
+
+Step 5: Formation of Urea
+- Enzyme: Arginase
+- Location: Cytoplasm
+- Reaction: Arginine + H₂O → Urea + Ornithine
+
+# Regulation of Urea Cycle
+- Allosteric regulation: N-acetylglutamate activates CPS I
+- Substrate availability: Ammonia concentration directly affects cycle rate
+- Hormonal regulation: Glucagon and cortisol increase enzyme synthesis
+- Nutritional state: High protein diet increases enzyme levels
+
+# Clinical Significance
+- Hyperammonemia: Results from enzyme deficiencies
+- Ornithine transcarbamylase deficiency: Most common urea cycle disorder
+- Treatment: Low protein diet, sodium benzoate, phenylbutyrate
+
+ 2.3 Acid-Base Balance and Homeostasis
+
+Maintenance of blood pH within narrow limits (7.35-7.45) is crucial for proper physiological function.
+
+# Buffer Systems
+
+1. Bicarbonate Buffer System (Most Important)
+- Components: HCO₃⁻/H₂CO₃ pair
+- Henderson-Hasselbalch equation: pH = 6.1 + log([HCO₃⁻]/[H₂CO₃])
+- Normal ratio: 20:1 (HCO₃⁻:H₂CO₃)
+- Effectiveness: pKa (6.1) close to physiological pH
+
+2. Phosphate Buffer System
+- Components: HPO₄²⁻/H₂PO₄⁻
+- Primary location: Intracellular fluid and urine
+- pKa: 6.8 (ideal for intracellular pH)
+
+3. Protein Buffer System
+- Components: Amino acid side chains (histidine, cysteine)
+- Hemoglobin: Major protein buffer in blood
+- Imidazole groups: Primary buffering groups in proteins
+
+# Respiratory Control of pH
+
+Mechanism
+- Central chemoreceptors: Medulla oblongata (respond to CSF pH)
+- Peripheral chemoreceptors: Carotid and aortic bodies (respond to blood pH, pCO₂, pO₂)
+- Response time: Seconds to minutes
+
+Respiratory Acidosis
+- Cause: Hypoventilation, increased CO₂ retention
+- Compensation: Renal HCO₃⁻ retention, H⁺ excretion
+
+Respiratory Alkalosis
+- Cause: Hyperventilation, excessive CO₂ loss
+- Compensation: Renal HCO₃⁻ excretion, H⁺ retention
+
+# Renal Control of pH
+
+Mechanisms of Renal Acid-Base Regulation
+
+1. HCO₃⁻ Reabsorption
+- Location: Primarily proximal tubule (80-90%)
+- Mechanism: Na⁺-H⁺ antiporter, carbonic anhydrase
+- Process: Filtered HCO₃⁻ + secreted H⁺ → H₂CO₃ → CO₂ + H₂O
+
+2. Titratable Acid Excretion
+- Primary buffer: Phosphate (HPO₄²⁻ + H⁺ → H₂PO₄⁻)
+- Location: Distal tubule and collecting duct
+- Regulation: Aldosterone increases H⁺ secretion
+
+3. Ammonium (NH₄⁺) Excretion
+- Formation: Glutamine metabolism in proximal tubule
+- Significance: Major mechanism for net acid excretion
+- Regulation: Increases during chronic acidosis
+
+# Acid-Base Disorders
+
+Metabolic Acidosis
+- Characteristics: Low pH, low HCO₃⁻
+- Causes: Diabetic ketoacidosis, lactic acidosis, renal failure
+- Compensation: Hyperventilation (respiratory alkalosis)
+
+Metabolic Alkalosis
+- Characteristics: High pH, high HCO₃⁻
+- Causes: Vomiting, diuretics, hyperaldosteronism
+- Compensation: Hypoventilation (respiratory acidosis)
+
+ 3. Nervous System
+
+ 3.2 Synaptic Transmission
+
+# 3.2.1 Types of Synapses and Synaptic Knobs
+
+Classification by Structure
+
+1. Chemical Synapses
+- Structure: Synaptic cleft (20-50 nm), pre- and postsynaptic membranes
+- Mechanism: Neurotransmitter release and binding
+- Directionality: Unidirectional transmission
+- Plasticity: High, subject to modulation
+
+2. Electrical Synapses
+- Structure: Gap junctions with connexons
+- Mechanism: Direct ionic current flow
+- Directionality: Bidirectional transmission
+- Speed: Faster than chemical synapses
+
+Classification by Location
+- Axosomatic: Axon terminal to cell body
+- Axodendritic: Axon terminal to dendrite
+- Axoaxonic: Axon terminal to axon (presynaptic modulation)
+- Dendrodendritic: Dendrite to dendrite (reciprocal synapses)
+
+Synaptic Knob Structure
+- Mitochondria: Provide ATP for neurotransmitter synthesis and vesicle recycling
+- Synaptic vesicles: Contain neurotransmitters (40-50 nm diameter)
+- Dense bars/Active zones: Sites of vesicle fusion and transmitter release
+- Voltage-gated Ca²⁺ channels: Trigger exocytosis
+- Synaptic cleft: Contains extracellular matrix proteins
+
+# 3.2.2 Excitatory and Inhibitory Post-Synaptic Potential
+
+Excitatory Post-Synaptic Potential (EPSP)
+
+Characteristics
+- Membrane change: Depolarization (becomes less negative)
+- Ion movement: Na⁺ influx, K⁺ efflux
+- Amplitude: 0.5-2 mV typically
+- Duration: 10-20 ms
+
+Mechanisms
+- Ligand-gated channels: Nicotinic ACh receptors, AMPA glutamate receptors
+- Channel selectivity: Permeable to Na⁺, K⁺, sometimes Ca²⁺
+- Reversal potential: Around 0 mV
+
+Inhibitory Post-Synaptic Potential (IPSP)
+
+Characteristics
+- Membrane change: Hyperpolarization (becomes more negative)
+- Ion movement: Cl⁻ influx, K⁺ efflux
+- Amplitude: 0.5-2 mV typically
+- Duration: 10-100 ms
+
+Mechanisms
+- Ligand-gated channels: GABA-A receptors, glycine receptors
+- Channel selectivity: Permeable to Cl⁻, K⁺
+- Reversal potential: Around -70 to -90 mV
+
+Synaptic Integration
+- Spatial summation: Multiple simultaneous inputs
+- Temporal summation: Rapid sequential inputs
+- Linear summation: EPSPs and IPSPs add algebraically
+- Shunting inhibition: Increased conductance reduces membrane resistance
+
+# 3.2.3 Chemical Transmission and Neurotransmitters
+
+Process of Chemical Transmission
+
+1. Synthesis and Storage
+- Synthesis: In presynaptic terminal or cell body
+- Transport: Axoplasmic transport for neuropeptides
+- Storage: Synaptic vesicles maintain high concentrations
+
+2. Release
+- Trigger: Ca²⁺ influx through voltage-gated channels
+- Mechanism: SNARE proteins mediate vesicle fusion
+- Quantal release: Vesicle contents released as discrete packets
+
+3. Binding and Action
+- Receptor binding: Specific neurotransmitter-receptor interaction
+- Conformational change: Opens ion channels or activates G-proteins
+- Signal transduction: Direct or indirect effects on postsynaptic cell
+
+4. Termination
+- Enzymatic degradation: Acetylcholinesterase, MAO, COMT
+- Reuptake: Transporter proteins remove neurotransmitter
+- Diffusion: Neurotransmitter moves away from synaptic cleft
+
+Major Neurotransmitter Classes
+
+1. Amino Acids
+- Glutamate: Primary excitatory neurotransmitter in CNS
+  - Receptors: AMPA, NMDA, kainate, metabotropic
+  - Functions: Learning, memory, synaptic plasticity
+- GABA: Primary inhibitory neurotransmitter in CNS
+  - Receptors: GABA-A (ionotropic), GABA-B (metabotropic)
+  - Functions: Motor control, anxiety regulation
+- Glycine: Primary inhibitory neurotransmitter in spinal cord
+  - Receptors: Strychnine-sensitive glycine receptors
+  - Functions: Motor neuron control, pain processing
+
+2. Monoamines
+- Dopamine: Motor control, reward, cognition
+  - Receptors: D1-D5 (all metabotropic)
+  - Pathways: Nigrostriatal, mesolimbic, mesocortical
+- Norepinephrine: Arousal, attention, sympathetic activation
+  - Receptors: α1, α2, β1, β2, β3 adrenergic
+  - Functions: Fight-or-flight response, mood regulation
+- Serotonin (5-HT): Mood, sleep, appetite
+  - Receptors: 5-HT1-7 (mostly metabotropic, 5-HT3 ionotropic)
+  - Functions: Depression, anxiety, aggression
+
+3. Acetylcholine
+- Receptors: Nicotinic (ionotropic), muscarinic (metabotropic)
+- Functions: Neuromuscular transmission, autonomic nervous system
+- Degradation: Acetylcholinesterase
+
+4. Neuropeptides
+- Endorphins: Pain modulation, reward
+- Substance P: Pain transmission, inflammation
+- Neuropeptide Y: Appetite regulation, stress response
+
+ 4. Muscle
+
+ 4.5 Muscle Twitch, Summation, Tetanus, and Fatigue
+
+Muscle Twitch
+
+Definition and Characteristics
+- Muscle twitch: Single contraction-relaxation cycle following single stimulus
+- Duration: 10-100 ms depending on fiber type
+- All-or-none: Individual muscle fibers contract maximally or not at all
+
+Phases of Muscle Twitch
+1. Latent period (1-2 ms): Excitation-contraction coupling occurs
+2. Contraction phase (10-40 ms): Cross-bridge cycling, tension development
+3. Relaxation phase (10-100 ms): Ca²⁺ sequestration, tension decline
+
+Summation
+
+Temporal Summation
+- Mechanism: Second stimulus applied before complete relaxation
+- Result: Greater force production than single twitch
+- Ca²⁺ accumulation: Successive stimuli maintain elevated [Ca²⁺]ᵢ
+- Incomplete tetanus: Partial relaxation between stimuli
+
+Spatial Summation (Recruitment)
+- Motor unit recruitment: Activation of additional motor units
+- Size principle: Smaller motor units recruited first
+- Force gradation: Smooth increase in total muscle force
+
+Tetanus
+
+Complete Tetanus
+- Stimulus frequency: High enough to prevent any relaxation
+- Force: 3-4 times greater than single twitch
+- Mechanism: Sustained high [Ca²⁺]ᵢ maintains cross-bridge cycling
+- Plateau phase: Steady-state force production
+
+Incomplete Tetanus (Clonus)
+- Stimulus frequency: Intermediate, allowing partial relaxation
+- Force oscillation: Sawtooth pattern of force development
+- Clinical significance: Abnormal clonus indicates neurological dysfunction
+
+Muscle Fatigue
+
+Definition: Progressive decline in force-generating capacity during sustained activity
+
+Types of Fatigue
+1. High-frequency fatigue: Failure of excitation-contraction coupling
+2. Low-frequency fatigue: Reduced Ca²⁺ sensitivity of contractile proteins
+3. Central fatigue: Reduced neural drive from CNS
+
+Mechanisms of Fatigue
+- Metabolic factors: Accumulation of lactate, inorganic phosphate, ADP
+- Ion imbalances: K⁺ efflux, Na⁺ influx affecting membrane excitability
+- Substrate depletion: ATP, creatine phosphate, glycogen depletion
+- Ca²⁺ handling: Impaired sarcoplasmic reticulum function
+
+ 4.6 Isotonic and Isometric Contraction
+
+Isometric Contraction
+
+Definition: Muscle develops tension without changing length
+
+Characteristics
+- Length: Constant muscle length
+- Tension: Variable, increases with stimulation intensity
+- Joint movement: No movement occurs
+- Energy: Converted to heat rather than mechanical work
+
+Examples
+- Postural maintenance: Holding objects, standing
+- Stabilization: Core muscles during lifting
+- Maximum voluntary contraction: Force testing
+
+Physiological Aspects
+- Cross-bridge cycling: Occurs but no shortening
+- ATP consumption: High due to continuous cross-bridge activity
+- Blood flow: May be compromised due to muscle compression
+
+Isotonic Contraction
+
+Definition: Muscle changes length while maintaining constant tension
+
+Types
+1. Concentric: Muscle shortens while contracting
+2. Eccentric: Muscle lengthens while contracting
+
+Concentric Contractions
+- Force-velocity relationship: Inverse relationship between force and velocity
+- Power output: Maximum at intermediate velocities
+- Energy efficiency: Lower than isometric contractions
+- Examples: Lifting phase of bicep curl, upward phase of squat
+
+Eccentric Contractions
+- Force production: Can generate 1.5-2x greater force than concentric
+- Energy cost: Lower per unit tension than concentric
+- Muscle damage: Greater potential for microscopic damage
+- Examples: Lowering phase of movements, downhill running
+
+Length-Tension Relationship
+- Optimal length: Maximum overlap of actin and myosin filaments
+- Active tension: Force from cross-bridge cycling
+- Passive tension: Force from elastic elements (titin, connective tissue)
+- Total tension: Sum of active and passive components
+
+ 4.7 Cori Cycle
+
+Definition: Metabolic pathway recycling lactate from muscle to glucose in liver
+
+Physiological Significance
+- Lactate disposal: Prevents excessive lactate accumulation
+- Glucose recycling: Maintains blood glucose during exercise
+- Metabolic cooperation: Between muscle and liver tissues
+
+Pathway Steps
+
+In Muscle (Anaerobic Conditions)
+1. Glycolysis: Glucose → Pyruvate + 2 ATP
+2. Lactate formation: Pyruvate + NADH → Lactate + NAD⁺
+3. Lactate release: Into bloodstream via monocarboxylate transporters
+
+In Liver
+1. Lactate uptake: From blood via hepatic circulation
+2. Lactate oxidation: Lactate + NAD⁺ → Pyruvate + NADH
+3. Gluconeogenesis: Pyruvate → Glucose (requires 6 ATP)
+4. Glucose release: Into bloodstream for muscle uptake
+
+Energetics
+- Muscle: Net gain of 2 ATP from glucose
+- Liver: Net cost of 6 ATP for gluconeogenesis
+- Overall: Net cost of 4 ATP per cycle
+- Energy source: Hepatic fatty acid oxidation provides ATP
+
+Regulation
+- Exercise intensity: Higher intensity increases lactate production
+- Hormonal control: Epinephrine, glucagon stimulate hepatic glucose output
+- Substrate availability: Liver glycogen, amino acids for gluconeogenesis
+
+Clinical Relevance
+- Exercise physiology: Lactate threshold, anaerobic capacity
+- Metabolic disorders: Defects in gluconeogenesis enzymes
+- Diabetes: Altered glucose-lactate cycling
+
+ 5. Cardiovascular System
+
+ Myogenic Heart
+
+Definition: Heart generates its own rhythmic contractions independent of nervous stimulation
+
+Cardiac Pacemaker System
+
+Sinoatrial (SA) Node
+- Location: Right atrial wall near superior vena cava
+- Function: Primary pacemaker, sets heart rate
+- Intrinsic rate: 60-100 beats per minute
+- Cell characteristics: Small, few contractile proteins, extensive gap junctions
+
+Atrioventricular (AV) Node
+- Location: Right atrial wall near tricuspid valve
+- Function: Secondary pacemaker, delays conduction
+- Intrinsic rate: 40-60 beats per minute
+- AV delay: 0.1-0.2 seconds allows atrial emptying
+
+His-Purkinje System
+- Bundle of His: Penetrates fibrous skeleton
+- Bundle branches: Right and left divisions
+- Purkinje fibers: Extensive ventricular network
+- Conduction velocity: Fastest in cardiac tissue (4 m/s)
+
+Pacemaker Potential (Phase 4 Depolarization)
+
+Ionic Mechanisms
+1. If current: Hyperpolarization-activated, mixed Na⁺/K⁺ current
+2. ICa,L: L-type Ca²⁺ channels open at threshold
+3. IK: Delayed rectifier K⁺ channels cause repolarization
+4. Decreased IK: Progressive K⁺ channel closure during diastole
+
+Autonomic Modulation
+- Sympathetic: β1-adrenergic stimulation increases If, ICa,L
+- Parasympathetic: M2-muscarinic stimulation decreases If, increases IK,ACh
+- Heart rate variability: Balance between sympathetic and parasympathetic tone
+
+ ECG - Principle and Significance
+
+Basic Principles
+
+Electrical Activity Recording
+- Dipole concept: Separation of positive and negative charges
+- Volume conductor: Body tissues conduct electrical current
+- Lead placement: Electrodes at different body locations
+- Einthoven triangle: Standard limb lead configuration
+
+ECG Waves and Intervals
+
+P Wave
+- Origin: Atrial depolarization
+- Duration: 0.08-0.10 seconds
+- Amplitude: 0.1-0.3 mV
+- Shape: Smooth, rounded, upright in leads I, II, aVF
+
+QRS Complex
+- Origin: Ventricular depolarization
+- Duration: 0.06-0.10 seconds
+- Components: Q (downward), R (upward), S (downward)
+- Amplitude: Variable, largest in precordial leads
+
+T Wave
+- Origin: Ventricular repolarization
+- Shape: Asymmetric, gradual upstroke, rapid downstroke
+- Direction: Generally same as QRS complex
+- Abnormalities: Inversion, peaked, flattened
+
+Intervals and Segments
+- PR interval: 0.12-0.20 seconds (AV conduction time)
+- QT interval: 0.35-0.43 seconds (ventricular electrical activity)
+- ST segment: Isoelectric line between QRS and T wave
+
+Clinical Significance
+
+Rhythm Analysis
+- Sinus rhythm: Regular P-QRS-T sequence, rate 60-100 bpm
+- Arrhythmias: Abnormal heart rhythms
+  - Bradycardia: <60 bpm
+  - Tachycardia: >100 bpm
+  - Atrial fibrillation: Irregular, no distinct P waves
+  - Ventricular tachycardia: Wide QRS, rate >150 bpm
+
+Conduction Abnormalities
+- AV blocks: First, second, third degree
+- Bundle branch blocks: Widened QRS, altered morphology
+- Accessory pathways: Pre-excitation syndromes
+
+Myocardial Infarction
+- ST elevation: Acute transmural injury
+- Q waves: Myocardial necrosis
+- T wave inversions: Ischemia or old infarction
+
+ Cardiac Cycle
+
+Definition: Sequence of events during one heartbeat, typically 0.8 seconds at rest
+
+Phases of Cardiac Cycle
+
+1. Atrial Systole (0.1 seconds)
+- Event: Atrial contraction
+- Pressure changes: Atrial pressure > ventricular pressure
+- Valve status: AV valves open, semilunar valves closed
+- Volume changes: Final 30% ventricular filling
+- ECG correlation: P wave
+
+2. Isovolumic Ventricular Contraction (0.05 seconds)
+- Event: Ventricular contraction begins
+- Pressure changes: Ventricular pressure rises rapidly
+- Valve status: All valves closed
+- Volume changes: No volume change
+- Heart sounds: S1 (lub) - AV valve closure
+
+3. Ventricular Ejection (0.25 seconds)
+
+Rapid Ejection Phase
+- Pressure: Ventricular > arterial pressure
+- Valve status: Semilunar valves open
+- Volume: 70% of stroke volume ejected
+- Flow rate: Maximum aortic flow
+
+Reduced Ejection Phase
+- Pressure: Ventricular pressure begins to fall
+- Flow rate: Decreasing ejection rate
+- End-systolic volume: Minimum ventricular volume
+
+4. Isovolumic Ventricular Relaxation (0.08 seconds)
+- Event: Ventricular relaxation begins
+- Pressure: Ventricular pressure falls rapidly
+- Valve status: All valves closed
+- Heart sounds: S2 (dub) - semilunar valve closure
+
+5. Ventricular Filling (0.4 seconds)
+
+Rapid Filling Phase
+- Mechanism: Passive filling due to pressure gradient
+- Volume: 70% of filling occurs
+- Duration: First third of diastole
+
+Reduced Filling Phase (Diastasis)
+- Mechanism: Slow, passive filling
+- Duration: Middle third of diastole
+- Importance: Allows coronary perfusion
+
+Pressure-Volume Loops
+- X-axis: Left ventricular volume
+- Y-axis: Left ventricular pressure
+- Loop area: Represents stroke work
+- Shape changes: Reflect cardiac function alterations
+
+Cardiac Output Regulation
+- Stroke volume: End-diastolic volume - end-systolic volume
+- Heart rate: SA node firing rate
+- Cardiac output: Stroke volume × heart rate
+- Normal values: 5-6 L/min at rest
+
+ 6. Sense Organs
+
+ Physiology of Vision
+
+Eye Structure and Function
+
+Optical Components
+- Cornea: Primary refractive surface (40-44 diopters)
+- Aqueous humor: Maintains intraocular pressure
+- Lens: Variable focus (15-20 diopters)
+- Vitreous humor: Maintains eye shape, optical clarity
+
+Accommodation
+- Mechanism: Ciliary muscle contraction changes lens shape
+- Near vision: Lens becomes more convex (increased power)
+- Distance vision: Lens flattens (decreased power)
+- Range: 0-15 diopters in young adults
+- Presbyopia: Age-related loss of accommodation
+
+Pupillary Reflexes
+- Light reflex: Pupil constricts in bright light
+- Near reflex: Pupil constricts during accommodation
+- Consensual reflex: Both pupils respond to unilateral stimulation
+
+Retinal Structure and Function
+
+Photoreceptor Cells
+
+Rod Cells
+- Function: Scotopic (dim light) vision
+- Distribution: Peripheral retina, absent in fovea
+- Number: ~120 million per eye
+- Photopigment: Rhodopsin (opsin + 11-cis retinal)
+- Sensitivity: High, can detect single photons
+- Spectral sensitivity: Peak at 500 nm
+
+Cone Cells
+- Function: Photopic (bright light) vision, color detection
+- Distribution: Concentrated in fovea
+- Number: ~6 million per eye
+- Types: S-cones (short, blue), M-cones (medium, green), L-cones (long, red)
+- Photopigments: Different opsins determine spectral sensitivity
+
+Phototransduction Cascade
+1. Light absorption: Isomerizes 11-cis retinal to all-trans retinal
+2. Rhodopsin activation: Conformational change in opsin
+3. G-protein activation: Transducin (Gt) activation
+4. PDE activation: Phosphodiesterase reduces cGMP
+5. Channel closure: Na⁺/Ca²⁺ channels close
+6. Hyperpolarization: Photoreceptor membrane hyperpolarizes
+7. Neurotransmitter reduction: Less glutamate release
+
+Retinal Processing
+
+Vertical Pathway
+- Photoreceptors: Convert light to electrical signals
+- Bipolar cells: ON and OFF types, center-surround organization
+- Ganglion cells: Output neurons to optic nerve
+
+Lateral Processing
+- Horizontal cells: Lateral inhibition, contrast enhancement
+- Amacrine cells: Complex processing, motion detection
+
+Visual Pathways
+
+Optic Pathway
+1. Optic nerve: Axons of retinal ganglion cells
+2. Optic chiasm: Partial decussation of nasal fibers
+3. Optic tract: Continues to lateral geniculate nucleus
+4. Lateral geniculate nucleus: Six-layered relay station
+5. Optic radiations: Geniculocalcarine pathway
+6. Primary visual cortex: Area V1, Brodmann area 17
+
+Visual Field Processing
+- Retinotopic mapping: Spatial organization preserved
+- Binocular vision: Convergence creates depth perception
+- Cortical columns: Ocular dominance and orientation columns
+
+ Physiology of Hearing
+
+Ear Structure and Function
+
+External Ear
+- Pinna: Sound collection and localization
+- External auditory canal: Sound conduction, protection
+- Tympanic membrane: Vibrates in response to sound waves
+
+Middle Ear
+
+Ossicles
+- Malleus: Attached to tympanic membrane
+- Incus: Bridge between malleus and stapes
+- Stapes: Smallest bone, attached to oval window
+
+Function
+- Impedance matching: Overcomes air-fluid interface
+- Amplification: 20-30 dB gain through lever action and area ratio
+- Protection: Tensor tympani and stapedius muscles
+
+Inner Ear (Cochlea)
+
+Structure
+- Scala vestibuli: Contains perilymph, connected to oval window
+- Scala media: Contains endolymph, houses organ of Corti
+- Scala tympani: Contains perilymph, connected to round window
+- Basilar membrane: Supports organ of Corti, frequency analysis
+
+Organ of Corti
+- Hair cells: Mechanotransducers
+  - Inner hair cells: Primary sensory cells (~3,500)
+  - Outer hair cells: Amplification and tuning (~12,000)
+- Supporting cells: Structural and metabolic support
+- Tectorial membrane: Overlies stereocilia
+
+Mechanotransduction
+
+Process
+1. Sound waves: Cause basilar membrane displacement
+2. Stereocilia deflection: Hair cell stereocilia bend
+3. Tip links: Connect adjacent stereocilia
+4. Mechanotransduction channels: K⁺-selective channels open
+5. Depolarization: K⁺ influx from endolymph
+6. Neurotransmitter release: Glutamate at afferent synapses
+
+Frequency Coding
+- Place principle: Different frequencies activate different basilar membrane locations
+- Traveling wave: Wave propagation along basilar membrane
+- Base: High frequency (20 kHz), stiff basilar membrane
+- Apex: Low frequency (20 Hz), flexible basilar membrane
+
+Amplitude Coding
+- Hair cell grading: Graded receptor potentials
+- Nerve fiber recruitment: More fibers activated with louder sounds
+- Dynamic range: 120 dB range of hearing
+
+Auditory Pathways
+
+Central Auditory System
+1. Spiral ganglion: Primary auditory neurons
+2. Cochlear nuclei: First central processing station
+3. Superior olivary complex: Binaural processing, localization
+4. Lateral lemniscus: Ascending auditory tract
+5. Inferior colliculus: Integration and reflexes
+6. Medial geniculate nucleus: Thalamic relay
+7. Primary auditory cortex: Conscious perception
+
+Sound Localization
+- Interaural time differences: Low frequency sounds
+- Interaural intensity differences: High frequency sounds
+- Head-related transfer function: Pinna and head shape effects
+
+---
+
+# Group-B (Biochemistry)
+
+ 7. Amino Acids
+
+ 7.3 Titration Curve
+
+Basic Principles of Amino Acid Titration
+
+Amino acids contain ionizable groups that can donate or accept protons depending on pH. The titration curve shows the relationship between pH and the degree of ionization.
+
+Ionizable Groups in Amino Acids
+- α-carboxyl group: Typical pKa ~ 2.3
+- α-amino group: Typical pKa ~ 9.6
+- Side chain groups: Variable pKa values (2.8-12.5)
+
+General Titration Curve Features
+
+For Simple Amino Acids (Glycine)
+
+Low pH Region (pH 0-3)
+- Form: +H₃N-CHR-COOH (net charge +1)
+- Predominant species: Fully protonated
+- Buffer capacity: Low except near pKa₁
+
+First Equivalence Point (pH ~2.3)
+- pKa₁: Carboxyl group deprotonation
+- Reaction: +H₃N-CHR-COOH → +H₃N-CHR-COO⁻ + H⁺
+- Henderson-Hasselbalch: pH = pKa₁ + log([COO⁻]/[COOH])
+
+Isoelectric Point Region
+- Form: +H₃N-CHR-COO⁻ (net charge 0, zwitterion)
+- pI calculation: pI = (pKa₁ + pKa₂)/2
+- Minimum solubility: Occurs at isoelectric point
+
+Second Equivalence Point (pH ~9.6)
+- pKa₂: Amino group deprotonation
+- Reaction: +H₃N-CHR-COO⁻ → H₂N-CHR-COO⁻ + H⁺
+- Net charge: -1 at high pH
+
+Complex Amino Acids with Ionizable Side Chains
+
+Acidic Amino Acids (Aspartic acid, Glutamic acid)
+- Three pKa values: α-COOH (~2.1), side chain COOH (~4.1), α-NH₃⁺ (~9.6)
+- Isoelectric point: pI = (pKa₁ + pKa₂)/2 (acidic side chain)
+- Net charge at pH 7: -1 (both carboxyl groups deprotonated)
+
+Basic Amino Acids (Lysine, Arginine, Histidine)
+- Three pKa values: α-COOH (~2.2), α-NH₃⁺ (~8.9), side chain NH₃⁺ (~10.5)
+- Isoelectric point: pI = (pKa₂ + pKa₃)/2 (basic side chain)
+- Net charge at pH 7: +1 (side chain still protonated)
+
+Special Case: Histidine
+- Side chain pKa: ~6.0 (imidazole group)
+- Physiological significance: Near physiological pH, can act as buffer
+- Protein function: Important in enzyme active sites
+
+Buffer Capacity and Henderson-Hasselbalch Equation
+
+Maximum Buffer Capacity
+- Occurs at: pH = pKa ± 1
+- Mechanism: Equal concentrations of protonated and deprotonated forms
+- Clinical importance: Physiological buffers operate near their pKa
+
+Quantitative Analysis
+- Henderson-Hasselbalch: pH = pKa + log([A⁻]/[HA])
+- Fraction ionized: α = [A⁻]/([A⁻] + [HA]) = 1/(1 + 10^(pKa-pH))
+- Buffer equation: β = 2.3 × C × α × (1-α)
+
+ 9. Enzymes
+
+ 9.3 Concepts of Regulation of Enzyme Activity
+
+Types of Enzyme Regulation
+
+1. Allosteric Regulation
+
+Positive Allosteric Regulation (Activation)
+- Mechanism: Binding of effector molecule increases enzyme activity
+- Conformational change: Shifts enzyme to more active form
+- Kinetics: Decreases Km (apparent), increases Vmax (apparent)
+- Example: Phosphofructokinase activated by AMP
+
+Negative Allosteric Regulation (Inhibition)
+- Mechanism: Binding of effector decreases enzyme activity
+- Conformational change: Shifts enzyme to less active form
+- Kinetics: Increases Km (apparent), decreases Vmax (apparent)
+- Example: Phosphofructokinase inhibited by ATP, citrate
+
+Homotropic vs Heterotropic Effects
+- Homotropic: Substrate itself acts as allosteric effector
+- Heterotropic: Different molecule acts as allosteric effector
+- Cooperative binding: Sigmoidal saturation curves
+
+2. Covalent Modification
+
+Phosphorylation/Dephosphorylation
+- Kinases: Add phosphate groups (usually activating)
+- Phosphatases: Remove phosphate groups (usually inactivating)
+- Target residues: Serine, threonine, tyrosine
+- Examples: Glycogen phosphorylase, acetyl-CoA carboxylase
+
+Other Covalent Modifications
+- Methylation: Gene expression regulation
+- Acetylation: Histone modification, enzyme regulation
+- Ubiquitination: Protein degradation signal
+- SUMOylation: Nuclear transport, transcriptional regulation
+
+3. Compartmentalization
+
+Spatial Separation
+- Substrate availability: Controls enzyme activity
+- Product removal: Prevents product inhibition
+- Example: Fatty acid synthesis (cytoplasm) vs β-oxidation (mitochondria)
+
+Metabolic Channeling
+- Enzyme complexes: Sequential reactions in close proximity
+- Advantages: Increased efficiency, reduced side reactions
+- Example: Pyruvate dehydrogenase complex
+
+4. Enzyme Induction and Repression
+
+Transcriptional Control
+- Enzyme induction: Increased enzyme synthesis
+- Enzyme repression: Decreased enzyme synthesis
+- Regulatory proteins: Activators and repressors
+- Response time: Hours to days
+
+Post-transcriptional Control
+- mRNA stability: Affects enzyme levels
+- Translational control: Ribosome binding, protein synthesis
+- Example: Iron-responsive elements controlling ferritin
+
+5. Feedback Inhibition
+
+End-Product Inhibition
+- Mechanism: Final product inhibits first enzyme in pathway
+- Advantage: Prevents overproduction
+- Example: CTP inhibits aspartate transcarbamoylase
+
+Multivalent Feedback
+- Multiple products: Each can inhibit the pathway
+- Cooperative inhibition: Synergistic effects
+- Cumulative inhibition: Additive effects
+
+Metabolic Pathway Regulation
+
+Key Regulatory Enzymes
+- Rate-limiting steps: Usually first committed step
+- Characteristics: Far from equilibrium, multiple regulation mechanisms
+- Examples: Hexokinase, phosphofructokinase, pyruvate kinase
+
+Energy Charge Regulation
+- Energy charge: ([ATP] + 0.5[ADP])/([ATP] + [ADP] + [AMP])
+- High energy charge: Favors anabolic pathways
+- Low energy charge: Favors catabolic pathways
+
+ 10. Carbohydrates
+
+ 10.1 Structure and Classification of Carbohydrates
+
+Basic Structure and Formula
+
+General Formula: (CH₂O)n where n ≥ 3
+Functional Groups:
+- Aldoses: Contain aldehyde group (-CHO)
+- Ketoses: Contain ketone group (C=O)
+
+Classification by Number of Carbons
+- Trioses: 3 carbons (glyceraldehyde, dihydroxyacetone)
+- Tetroses: 4 carbons (erythrose, threose)
+- Pentoses: 5 carbons (ribose, arabinose, xylose)
+- Hexoses: 6 carbons (glucose, fructose, galactose)
+- Heptoses: 7 carbons (sedoheptulose)
+
+Stereochemistry
+
+D and L Configuration
+- Reference: Glyceraldehyde
+- D-sugars: OH group on right at penultimate carbon
+- L-sugars: OH group on left at penultimate carbon
+- Biological significance: Most naturally occurring sugars are D-form
+
+Enantiomers and Epimers
+- Enantiomers: Mirror images (D-glucose and L-glucose)
+- Epimers: Differ at only one chiral center
+- Examples: Glucose and galactose (C-4 epimers)
+
+Cyclic Structures
+
+Hemiacetal/Hemiketal Formation
+- Mechanism: Intramolecular reaction between carbonyl and hydroxyl
+- Ring size: Usually 5-membered (furanose) or 6-membered (pyranose)
+- Anomeric carbon: New chiral center formed
+
+Anomers
+- α-anomer: OH group below plane in Haworth projection
+- β-anomer: OH group above plane in Haworth projection
+- Mutarotation: Interconversion between anomers in solution
+
+Chair and Boat Conformations
+- Chair: Most stable conformation for pyranoses
+- Axial vs equatorial: Affects stability and reactivity
+- Example: β-D-glucose has all OH groups equatorial
+
+Properties of Monosaccharides
+
+Physical Properties
+- Solubility: High water solubility due to multiple OH groups
+- Optical activity: Rotate plane-polarized light
+- Melting points: Generally high due to hydrogen bonding
+- Taste: Usually sweet (fructose > sucrose > glucose)
+
+Chemical Properties
+
+Reducing Properties
+- Mechanism: Free anomeric carbon can open to form aldehydes/ketones
+- Tests: Benedict's test, Fehling's test
+- Reducing sugars: Glucose, fructose, galactose, lactose, maltose
+- Non-reducing sugars: Sucrose (both anomeric carbons involved in glycosidic bond)
+
+Glycosidic Bond Formation
+- Mechanism: Condensation reaction between anomeric carbon and hydroxyl
+- Bond types: α(1→4), β(1→4), α(1→6), etc.
+- Hydrolysis: Catalyzed by specific glycosidases
+
+Oxidation Reactions
+- Aldonic acids: Oxidation of aldehyde group (gluconic acid)
+- Uronic acids: Oxidation of terminal CH₂OH (glucuronic acid)
+- Aldaric acids: Oxidation of both ends (glucaric acid)
+
+Properties of Oligosaccharides
+
+Disaccharides
+
+Sucrose (α-D-glucose(1→2)β-D-fructose)
+- Source: Sugar cane, sugar beet
+- Properties: Non-reducing, highly soluble
+- Hydrolysis: Sucrase → glucose + fructose (invert sugar)
+
+Lactose (β-D-galactose(1→4)β-D-glucose)
+- Source: Milk sugar
+- Properties: Reducing sugar, less sweet than sucrose
+- Hydrolysis: Lactase → galactose + glucose
+- Clinical: Lactose intolerance due to lactase deficiency
+
+Maltose (α-D-glucose(1→4)α-D-glucose)
+- Source: Starch hydrolysis
+- Properties: Reducing sugar
+- Hydrolysis: Maltase → 2 glucose molecules
+
+Higher Oligosaccharides
+- Raffinose: Trisaccharide (galactose-glucose-fructose)
+- Stachyose: Tetrasaccharide
+- Function: Storage carbohydrates in plants
+- Digestion: Humans lack α-galactosidase (causes flatulence)
+
+ 10.2 Polysaccharides of Physiological Significance
+
+Storage Polysaccharides
+
+Starch
+- Composition: Amylose (20-25%) + amylopectin (75-80%)
+- Amylose: Linear α(1→4) glucose chains, 200-20,000 glucose units
+- Amylopectin: Branched, α(1→4) with α(1→6) branches every 25-30 units
+- Structure: Helical conformation, iodine test positive (blue color)
+- Function: Primary storage carbohydrate in plants
+
+Glycogen
+- Structure: Similar to amylopectin but more highly branched
+- Branching: α(1→6) branches every 8-12 glucose units
+- Molecular weight: 10⁶ - 10⁷ daltons
+- Location: Liver (100-120g), skeletal muscle (300-400g)
+- Function: Primary glucose storage in animals
+
+Structural Polysaccharides
+
+Cellulose
+- Structure: Linear β(1→4) glucose chains
+- Conformation: Extended, rigid chains
+- Hydrogen bonding: Extensive inter-chain bonding
+- Function: Structural component of plant cell walls
+- Digestion: Humans cannot digest (lack cellulase)
+
+Chitin
+- Structure: β(1→4) linked N-acetylglucosamine
+- Function: Structural component in arthropod exoskeletons, fungal cell walls
+- Properties: Strong, lightweight, biodegradable
+
+Mucopolysaccharides (Glycosaminoglycans)
+
+Hyaluronic Acid
+- Structure: Alternating glucuronic acid and N-acetylglucosamine
+- Properties: Highly hydrated, viscous
+- Function: Joint lubrication, tissue hydration
+- Location: Synovial fluid, vitreous humor, skin
+
+Chondroitin Sulfate
+- Structure: Sulfated glycosaminoglycan
+- Function: Cartilage structure and function
+- Clinical: Used as dietary supplement for joint health
+
+Heparin
+- Structure: Highly sulfated glycosaminoglycan
+- Function: Anticoagulant activity
+- Mechanism: Activates antithrombin III
+- Clinical: Used as anticoagulant drug
+
+ 10. Metabolism
+
+ Electron Transport Chain and Oxidative Phosphorylation
+
+Overview of Cellular Respiration
+
+The electron transport chain (ETC) is the final stage of cellular respiration, where NADH and FADH₂ are oxidized to generate ATP through oxidative phosphorylation.
+
+Mitochondrial Structure
+- Outer membrane: Permeable to small molecules
+- Inner membrane: Impermeable, contains ETC complexes
+- Intermembrane space: Site of proton accumulation
+- Matrix: Contains TCA cycle enzymes, DNA, ribosomes
+
+Electron Transport Chain Complexes
+
+Complex I (NADH-CoQ Oxidoreductase)
+- Components: FMN, iron-sulfur clusters
+- Function: Oxidizes NADH, reduces CoQ
+- Reaction: NADH + H⁺ + CoQ → NAD⁺ + CoQH₂
+- Proton pumping: 4 H⁺ pumped per NADH
+- Inhibitor: Rotenone
+
+Complex II (Succinate-CoQ Oxidoreductase)
+- Components: FAD, iron-sulfur clusters, cytochrome b
+- Function: Oxidizes FADH₂, reduces CoQ
+- Reaction: FADH₂ + CoQ → FAD + CoQH₂
+- Proton pumping: None (electrons enter at lower energy level)
+- TCA cycle connection: Contains succinate dehydrogenase
+
+Complex III (CoQH₂-Cytochrome c Oxidoreductase)
+- Components: Cytochrome b, cytochrome c₁, iron-sulfur cluster
+- Function: Oxidizes CoQH₂, reduces cytochrome c
+- Q cycle: Regenerates CoQ and pumps protons
+- Proton pumping: 4 H⁺ pumped per CoQH₂
+- Inhibitor: Antimycin A
+
+Complex IV (Cytochrome c Oxidase)
+- Components: Cytochrome a, cytochrome a₃, copper centers
+- Function: Oxidizes cytochrome c, reduces O₂ to H₂O
+- Reaction: 4 cytochrome c²⁺ + O₂ + 4H⁺ → 4 cytochrome c³⁺ + 2H₂O
+- Proton pumping: 2 H⁺ pumped per cytochrome c
+- Inhibitor: Cyanide, carbon monoxide
+
+Mobile Electron Carriers
+- Coenzyme Q (ubiquinone): Lipid-soluble, shuttles between Complexes I/II and III
+- Cytochrome c: Water-soluble protein, shuttles between Complexes III and IV
+
+Oxidative Phosphorylation
+
+Chemiosmotic Theory (Peter Mitchell)
+- Proton gradient: H⁺ pumping creates electrochemical gradient
+- Protonmotive force: ΔμH⁺ = ΔΨ - (2.3RT/F) × ΔpH
+- Energy storage: Potential energy in proton gradient
+- ATP synthesis: Protons flow through ATP synthase
+
+ATP Synthase (Complex V)
+
+Structure
+- F₀ portion: Membrane-embedded, contains c-ring and a-subunit
+- F₁ portion: Matrix-facing, contains catalytic sites
+- Subunit composition: α₃β₃γδε (F₁) + ab₂c₁₀₋₁₄ (F₀)
+
+Mechanism (Binding Change Mechanism)
+- Catalytic sites: Three β-subunits with different conformations
+- Conformational changes: Loose (L), tight (T), open (O) states
+- Rotation: γ-subunit rotates, changing β-subunit conformations
+- ATP synthesis: ADP + Pi → ATP in tight conformation
+
+Stoichiometry
+- Proton requirement: ~3-4 H⁺ per ATP synthesized
+- P/O ratios: NADH = 2.5 ATP, FADH₂ = 1.5 ATP
+- Theoretical maximum: 32 ATP per glucose (including glycolysis and TCA)
+
+Regulation of Oxidative Phosphorylation
+
+Respiratory Control
+- State 3: Active respiration with ADP available
+- State 4: Resting respiration, limited by ADP availability
+- Respiratory control ratio: State 3/State 4 rate
+- ADP/ATP ratio: Primary controlling factor
+
+Uncoupling
+- Definition: Disruption of proton gradient without ATP synthesis
+- Natural uncouplers: UCP-1 (thermogenin) in brown adipose tissue
+- Chemical uncouplers: 2,4-dinitrophenol (DNP)
+- Effect: Energy released as heat instead of ATP
+
+Inhibitors and Their Sites
+- Complex I: Rotenone, barbiturates
+- Complex III: Antimycin A, myxothiazol
+- Complex IV: Cyanide, carbon monoxide, hydrogen sulfide
+- ATP synthase: Oligomycin
+
+ 11. Lipids
+
+ Lipids of Physiologic (Clinical) Significance
+
+Classification of Physiologically Important Lipids
+
+Simple Lipids
+- Neutral fats (triacylglycerols): Energy storage
+- Waxes: Protective coatings
+- Cholesterol esters: Cholesterol storage and transport
+
+Complex Lipids
+- Phospholipids: Membrane components
+- Glycolipids: Cell recognition and signaling
+- Lipoproteins: Lipid transport in blood
+
+Derived Lipids
+- Fatty acids: Building blocks and signaling molecules
+- Steroids: Hormones and membrane components
+- Prostaglandins: Local signaling molecules
+
+Clinical Significance of Major Lipid Classes
+
+Triacylglycerols (Triglycerides)
+- Normal range: <150 mg/dL
+- Clinical significance: 
+  - Elevated levels (hypertriglyceridemia) increase cardiovascular risk
+  - Associated with metabolic syndrome, diabetes
+  - Very high levels (>1000 mg/dL) risk of pancreatitis
+- Measurement: Part of lipid panel, requires fasting sample
+
+Cholesterol and Cholesterol Esters
+- Total cholesterol: <200 mg/dL desirable
+- Clinical significance:
+  - Major risk factor for atherosclerosis
+  - Component of gallstones
+  - Precursor for steroid hormones and bile acids
+- Metabolism: 
+  - Endogenous synthesis (HMG-CoA reductase pathway)
+  - Dietary absorption (Niemann-Pick C1-like 1 protein)
+
+Lipoprotein Classification and Clinical Relevance
+
+Chylomicrons
+- Function: Transport dietary lipids from intestine
+- Composition: 90% triglycerides, minimal protein
+- Clinical: Elevated in Type I hyperlipoproteinemia
+- Metabolism: Lipoprotein lipase cleaves triglycerides
+
+Very Low-Density Lipoprotein (VLDL)
+- Function: Transport endogenous triglycerides from liver
+- Composition: 60% triglycerides, apoB-100
+- Clinical: Elevated in Type IV hyperlipoproteinemia
+- Normal range: <30 mg/dL
+
+Low-Density Lipoprotein (LDL)
+- Function: Cholesterol delivery to tissues
+- Composition: 50% cholesterol/cholesterol esters
+- Clinical significance: "Bad cholesterol"
+  - <100 mg/dL optimal, <70 mg/dL for high-risk patients
+  - Major atherogenic lipoprotein
+  - Oxidized LDL particularly harmful
+
+High-Density Lipoprotein (HDL)
+- Function: Reverse cholesterol transport
+- Composition: 50% protein, significant cholesterol
+- Clinical significance: "Good cholesterol"
+  - >40 mg/dL men, >50 mg/dL women
+  - Protective against cardiovascular disease
+  - Transports cholesterol to liver for disposal
+
+ Membrane Lipids
+
+Phospholipids
+
+Phosphatidylcholine (Lecithin)
+- Structure: Glycerol backbone, two fatty acids, phosphocholine head
+- Function: Major membrane component, lung surfactant
+- Clinical significance: 
+  - Deficiency in respiratory distress syndrome
+  - Used in drug delivery systems (liposomes)
+
+Phosphatidylserine
+- Structure: Glycerol backbone, two fatty acids, phosphoserine head
+- Function: Inner leaflet of plasma membrane, apoptosis signaling
+- Clinical: PS exposure signals phagocytosis
+
+Phosphatidylethanolamine
+- Structure: Glycerol backbone, two fatty acids, phosphoethanolamine head
+- Function: Membrane component, especially nervous tissue
+- Synthesis: Decarboxylation of phosphatidylserine
+
+Phosphatidylinositol and Derivatives
+- PIP₂ (phosphatidylinositol 4,5-bisphosphate): Second messenger precursor
+- Function: Cleaved by phospholipase C → IP₃ + DAG
+- Clinical: Important in signal transduction
+
+Sphingolipids
+
+Sphingomyelin
+- Structure: Sphingosine backbone, fatty acid, phosphocholine
+- Function: Major component of myelin sheath
+- Clinical: Deficiency in Niemann-Pick disease
+
+Glycosphingolipids
+- Cerebrosides: Glucose or galactose attached to ceramide
+- Gangliosides: Complex oligosaccharides with sialic acid
+- Clinical: Accumulation in lysosomal storage diseases
+
+ Cholesterol
+
+Structure and Properties
+- Steroid backbone: Four-ring structure
+- Hydroxyl group: Makes molecule amphipathic
+- Rigid structure: Affects membrane fluidity
+- Synthesis: All carbons derived from acetyl-CoA
+
+Cholesterol Synthesis Pathway
+
+Rate-limiting Step
+- Enzyme: HMG-CoA reductase
+- Reaction: HMG-CoA → mevalonate
+- Regulation: Multiple levels of control
+- Location: Endoplasmic reticulum
+
+Pathway Overview
+1. Acetyl-CoA → HMG-CoA: HMG-CoA synthase
+2. HMG-CoA → mevalonate: HMG-CoA reductase (rate-limiting)
+3. Mevalonate → isoprene units: Kinases and decarboxylase
+4. Isoprene units → squalene: Squalene synthase
+5. Squalene → lanosterol: Squalene epoxidase, cyclase
+6. Lanosterol → cholesterol: Multiple steps (14 reactions)
+
+Regulation of Cholesterol Synthesis
+
+Transcriptional Regulation
+- SREBP-2: Sterol regulatory element-binding protein
+- Mechanism: Low cholesterol activates SREBP-2 → increased HMG-CoA reductase
+- Feedback inhibition: High cholesterol suppresses synthesis
+
+Post-transcriptional Regulation
+- Phosphorylation: AMP kinase phosphorylates and inactivates
+- Degradation: Regulated proteolysis of HMG-CoA reductase
+- Mevalonate: Feedback inhibition of HMG-CoA reductase
+
+Clinical Applications
+- Statins: HMG-CoA reductase inhibitors
+- Mechanism: Competitive inhibition, reduce cholesterol synthesis
+- Examples: Atorvastatin, simvastatin, rosuvastatin
+
+Cholesterol Metabolism and Excretion
+
+Bile Acid Synthesis
+- Rate-limiting enzyme: 7α-hydroxylase (CYP7A1)
+- Primary bile acids: Cholic acid, chenodeoxycholic acid
+- Function: Fat digestion, cholesterol elimination
+- Enterohepatic circulation: 95% reabsorption in ileum
+
+Cholesterol Transport
+- Intracellular: Sterol carrier proteins
+- Plasma: Lipoproteins (LDL delivers, HDL removes)
+- LDL receptor: Regulated uptake mechanism
+- ABCA1 transporter: HDL-mediated efflux
+
+ 11.2 Synthesis of Fatty Acids
+
+Overview of Fatty Acid Synthesis
+
+Location: Primarily cytoplasm (some chain elongation in ER)
+Substrates: Acetyl-CoA, malonyl-CoA, NADPH
+Product: Primarily palmitic acid (16:0)
+Regulation: Nutritional and hormonal control
+
+Acetyl-CoA Transport (Citrate-Pyruvate Cycle)
+
+Problem: Acetyl-CoA cannot cross mitochondrial membrane
+Solution: Citrate transport system
+
+Steps:
+1. Acetyl-CoA + oxaloacetate → citrate (citrate synthase, mitochondria)
+2. Citrate transport: Tricarboxylate transporter to cytoplasm
+3. Citrate → acetyl-CoA + oxaloacetate (ATP citrate lyase, cytoplasm)
+4. Oxaloacetate → pyruvate: Via malate and malic enzyme
+5. Pyruvate transport: Back to mitochondria
+
+Committed Step: Acetyl-CoA Carboxylase (ACC)
+
+Reaction: Acetyl-CoA + CO₂ + ATP → malonyl-CoA + ADP + Pi
+Enzyme structure: Biotin-containing enzyme
+Regulation: Key control point for fatty acid synthesis
+
+ACC Regulation
+
+Allosteric Regulation
+- Activator: Citrate (promotes polymerization)
+- Inhibitor: Palmitoyl-CoA (end-product inhibition)
+
+Covalent Modification
+- Phosphorylation: AMP kinase, protein kinase A (inactivating)
+- Dephosphorylation: Protein phosphatase 2A (activating)
+
+Transcriptional Regulation
+- SREBP-1c: Activates ACC transcription
+- Insulin: Promotes SREBP-1c activation
+- Glucagon/epinephrine: Suppress ACC expression
+
+Fatty Acid Synthase (FAS) Complex
+
+Structure: Multifunctional enzyme complex (540 kDa homodimer)
+Domains: Seven catalytic activities per monomer
+Product: Free palmitic acid (16:0)
+
+Catalytic Activities:
+1. Acetyl transferase (AT): Loads acetyl-CoA
+2. Malonyl transferase (MT): Loads malonyl-CoA
+3. Ketoacyl synthase (KS): Condensation reaction
+4. Ketoacyl reductase (KR): First reduction (NADPH-dependent)
+5. Dehydratase (DH): Removes water
+6. Enoyl reductase (ER): Second reduction (NADPH-dependent)
+6. Thioesterase (TE): Releases palmitic acid
+7. Acyl carrier protein (ACP): Carries growing fatty acid chain
+
+Fatty Acid Synthesis Cycle
+
+Initial Loading
+1. Acetyl-CoA loading: AT transfers acetyl to ACP
+2. Malonyl-CoA loading: MT transfers malonyl to ACP
+3. Primer transfer: Acetyl group transferred from ACP to KS
+
+Elongation Cycle (Repeated 7 times)
+1. Condensation: KS condenses acetyl-ACP with malonyl-ACP
+   - Reaction: Acetyl-ACP + malonyl-ACP → ketoacyl-ACP + CO₂ + ACP
+2. First reduction: KR reduces ketone to hydroxyl (uses NADPH)
+3. Dehydration: DH removes water to form double bond
+4. Second reduction: ER reduces double bond (uses NADPH)
+5. Chain transfer: Product moved to KS for next cycle
+
+Termination
+- After 7 cycles: 16-carbon palmitoyl-ACP formed
+- Thioesterase action: Releases free palmitic acid
+- ACP regeneration: Ready for new synthesis cycle
+
+Stoichiometry of Palmitic Acid Synthesis
+- Overall reaction: 8 Acetyl-CoA + 7 ATP + 14 NADPH + 14 H⁺ → Palmitate + 8 CoA + 7 ADP + 7 Pi + 14 NADP⁺ + 6 H₂O
+- Energy cost: 7 ATP + 14 NADPH per palmitate
+- NADPH sources: Pentose phosphate pathway, malic enzyme, isocitrate dehydrogenase
+
+Regulation of Fatty Acid Synthesis
+
+Nutritional Regulation
+- Fed state: High insulin, glucose → activation
+- Fasting state: Low insulin, high glucagon → inhibition
+- High-carbohydrate diet: Induces fatty acid synthesis enzymes
+
+Hormonal Regulation
+- Insulin: Activates ACC, induces FAS expression
+- Glucagon/Epinephrine: Phosphorylates and inactivates ACC
+- Thyroid hormones: Long-term regulation of enzyme levels
+
+Chain Elongation and Desaturation
+
+Elongation Systems
+- Cytoplasmic elongation: Adds 2 carbons using malonyl-CoA
+- Mitochondrial elongation: Minor pathway
+- ER elongation: Major pathway for long-chain fatty acids
+
+Desaturation
+- Δ9-desaturase: Introduces first double bond (stearoyl-CoA → oleoyl-CoA)
+- Requirements: Requires O₂, NADH, cytochrome b5 reductase
+- Location: Endoplasmic reticulum
+- Essential fatty acids: Cannot be synthesized by mammals
+
+ 12. Errors in Biosynthetic Pathways
+
+ Inborn Errors of Amino Acid Catabolism
+
+General Principles of Inborn Errors
+
+Definition: Genetic defects in enzyme function leading to metabolic disorders
+Consequences:
+- Substrate accumulation: Toxic effects of accumulated precursors
+- Product deficiency: Loss of essential metabolites
+- Alternative pathway activation: Secondary metabolite production
+
+Common Features:
+- Autosomal recessive inheritance: Most cases
+- Enzyme deficiency: Complete or partial loss of function
+- Metabolic blocks: Disrupted biochemical pathways
+- Clinical heterogeneity: Variable severity and presentation
+
+ Alkaptonuria
+
+Biochemical Defect
+- Enzyme deficiency: Homogentisate 1,2-dioxygenase
+- Pathway affected: Phenylalanine and tyrosine catabolism
+- Gene: HGD gene on chromosome 3q13.33
+- Inheritance: Autosomal recessive
+
+Normal Pathway
+1. Phenylalanine → tyrosine: Phenylalanine hydroxylase
+2. Tyrosine → DOPA: Tyrosine aminotransferase
+3. DOPA → homogentisate: Multiple steps
+4. Homogentisate → maleylacetoacetate: Homogentisate 1,2-dioxygenase (DEFICIENT)
+5. Maleylacetoacetate → fumarate + acetoacetate: Final steps
+
+Pathophysiology
+- Accumulation: Homogentisate (homogentisic acid)
+- Excretion: Large amounts in urine (4-8 g/day)
+- Oxidation: Homogentisate oxidizes to benzoquinone acetate
+- Polymerization: Forms dark pigment (ochronosis)
+
+Clinical Manifestations
+
+Early Signs
+- Dark urine: Upon standing or alkalinization
+- Diaper staining: Dark spots in infants
+- Usually asymptomatic: In childhood
+
+Adult Complications (Ochronosis)
+- Arthritis: Progressive degenerative joint disease
+- Spine involvement: Lower back pain, reduced mobility
+- Large joint involvement: Knees, shoulders, hips
+- Cartilage pigmentation: Dark discoloration
+- Cardiac involvement: Aortic stenosis, mitral valve disease
+- Ocular changes: Scleral pigmentation
+- Ear involvement: Dark pigmentation of ear cartilage
+
+Diagnosis
+- Urine test: Homogentisic acid detection
+- Alkaline urine: Turns dark on standing
+- Benedict's test: False positive (reducing substance)
+- Gas chromatography-mass spectrometry: Definitive identification
+- Genetic testing: HGD gene mutations
+
+Treatment and Management
+- No specific cure: Currently available
+- Symptomatic treatment:
+  - NSAIDs for joint pain
+  - Physical therapy
+  - Joint replacement for severe arthritis
+- Experimental treatments:
+  - Vitamin C supplementation (antioxidant)
+  - Low-protein diet (limited benefit)
+  - Nitisinone (experimental, inhibits earlier pathway step)
+
+ Albinism
+
+Types and Classification
+
+Oculocutaneous Albinism (OCA)
+- OCA1: Tyrosinase gene mutations
+- OCA2: OCA2 gene mutations (P protein)
+- OCA3: TYRP1 gene mutations
+- OCA4: SLC45A2 gene mutations
+
+Ocular Albinism
+- OA1: GPR143 gene mutations (X-linked)
+- Affects primarily eyes: Minimal skin involvement
+
+Biochemical Defects
+
+Melanin Synthesis Pathway
+1. Tyrosine → DOPA: Tyrosinase (rate-limiting step)
+2. DOPA → dopaquinone: Tyrosinase
+3. Dopaquinone → leucodopachrome: Spontaneous
+4. Leucodopachrome → dopachrome: Tyrosinase-related protein 2
+5. Dopachrome → DHICA: Tyrosinase-related protein 1
+6. DHICA → melanin: Final polymerization steps
+
+OCA1 (Tyrosinase Deficiency)
+- OCA1A: Complete tyrosinase deficiency (no melanin)
+- OCA1B: Partial tyrosinase deficiency (some melanin)
+- Prevalence: 1 in 40,000 worldwide
+- Most severe form: Complete absence of melanin
+
+Clinical Manifestations
+
+Cutaneous Features
+- Skin pigmentation: Absent or markedly reduced
+- Hair color: White to light blonde
+- Sun sensitivity: Severe photosensitivity
+- Skin cancer risk: Dramatically increased
+- Never tanning: Cannot develop protective pigmentation
+
+Ocular Features
+- Iris translucency: Blue or pink iris due to blood vessels
+- Nystagmus: Involuntary eye movements
+- Photophobia: Light sensitivity
+- Reduced visual acuity: 20/60 to 20/400
+- Strabismus: Crossed eyes
+- Foveal hypoplasia: Underdeveloped central retina
+- Misrouting of optic nerves: Altered visual pathway development
+
+Diagnosis
+- Clinical examination: Characteristic appearance
+- Ophthalmologic examination: Specific eye abnormalities
+- Hair bulb test: Tyrosinase activity measurement
+- Genetic testing: Molecular diagnosis
+- Electron microscopy: Melanocyte ultrastructure
+
+Management
+- Sun protection: Essential throughout life
+  - Broad-spectrum sunscreen (SPF 30+)
+  - Protective clothing
+  - Sunglasses and hats
+- Vision care:
+  - Regular ophthalmologic follow-up
+  - Corrective lenses
+  - Low-vision aids
+- Skin surveillance: Regular dermatologic screening
+- Genetic counseling: For affected families
+
+ Phenylketonuria (PKU)
+
+Biochemical Defect
+- Primary enzyme deficiency: Phenylalanine hydroxylase (PAH)
+- Alternative defects: Cofactor synthesis/recycling defects
+- Gene location: PAH gene on chromosome 12q23.2
+- Inheritance: Autosomal recessive
+
+Normal Phenylalanine Metabolism
+1. Phenylalanine → tyrosine: Phenylalanine hydroxylase (PAH) + BH₄
+2. BH₄ regeneration: Dihydropteridine reductase
+3. BH₄ synthesis: GTP cyclohydrolase I, other enzymes
+
+Classification of PKU
+
+Classic PKU
+- Enzyme activity: <1% of normal PAH activity
+- Phenylalanine levels: >1200 μmol/L (>20 mg/dL)
+- Most severe form: Requires strict dietary management
+
+Moderate PKU
+- Enzyme activity: 1-5% of normal PAH activity
+- Phenylalanine levels: 600-1200 μmol/L
+- Dietary restrictions: Less strict than classic PKU
+
+Mild Hyperphenylalaninemia
+- Enzyme activity: 5-25% of normal PAH activity
+- Phenylalanine levels: 120-600 μmol/L
+- May not require treatment: Depends on levels
+
+Cofactor Defects (Malignant PKU)
+- BH₄ deficiency: More severe than classic PKU
+- Affects neurotransmitter synthesis: Additional complications
+- Requires cofactor supplementation: Not just dietary restriction
+
+Pathophysiology
+
+Primary Effects
+- Phenylalanine accumulation: Toxic to developing brain
+- Tyrosine deficiency: Reduced melanin and catecholamine synthesis
+- Alternative metabolites: Phenylpyruvate, phenyllactate, phenylacetate
+
+Mechanisms of Brain Damage
+- Competitive inhibition: Phenylalanine blocks other amino acid transport
+- Myelination defects: Impaired protein synthesis
+- Neurotransmitter deficiency: Reduced dopamine, norepinephrine, serotonin
+- Oxidative stress: Free radical damage
+
+Clinical Manifestations
+
+Untreated Classic PKU
+- Intellectual disability: Severe mental retardation (IQ <50)
+- Seizures: Often treatment-resistant
+- Behavioral problems: Hyperactivity, autism-like behaviors
+- Growth retardation: Delayed physical development
+- Hypopigmentation: Light skin, hair, eyes
+- Eczema: Skin rashes
+- Mousy odor: Due to phenylacetic acid
+
+Maternal PKU Syndrome
+- High phenylalanine in pregnancy: Affects fetal development
+- Consequences: Microcephaly, cardiac defects, growth retardation
+- Prevention: Strict dietary control before conception
+
+Diagnosis
+
+Newborn Screening
+- Guthrie test: Bacterial inhibition assay (historical)
+- Tandem mass spectrometry: Current standard method
+- Timing: 24-72 hours after birth (after protein feeding)
+- Cutoff levels: Varies by laboratory (typically >120 μmol/L)
+
+Confirmatory Testing
+- Plasma amino acids: Quantitative phenylalanine measurement
+- Urine organic acids: Phenylketones
+- BH₄ loading test: Differentiates PAH from cofactor defects
+- Genetic testing: Mutation analysis of PAH gene
+
+Treatment and Management
+
+Dietary Management
+- Low-phenylalanine diet: Cornerstone of treatment
+- Target levels: 120-360 μmol/L (2-6 mg/dL)
+- Protein restriction: Natural protein limited
+- Medical foods: Phenylalanine-free amino acid formulas
+- Monitoring: Regular blood phenylalanine measurements
+
+Specific Dietary Components
+- Allowed foods: Most fruits, vegetables, some grains
+- Restricted foods: High-protein foods (meat, dairy, eggs, nuts)
+- Aspartame avoidance: Contains phenylalanine
+- Supplementation: Vitamins, minerals, tyrosine
+
+Pharmacological Treatments
+
+Sapropterin (Kuvan)
+- Mechanism: BH₄ cofactor supplementation
+- Indication: BH₄-responsive PKU (10-20% of patients)
+- Benefits: Increased phenylalanine tolerance
+- Testing: Trial period to determine responsiveness
+
+Large Neutral Amino Acids (LNAA)
+- Mechanism: Competitive inhibition of phenylalanine transport
+- Indication: Adjunctive therapy
+- Benefits: May improve brain neurotransmitter levels
+
+Experimental Treatments
+- Enzyme replacement therapy: PEGylated phenylalanine ammonia lyase
+- Gene therapy: Investigational approaches
+- Probiotics: Engineered bacteria to degrade phenylalanine
+
+Long-term Management
+
+Lifelong Treatment
+- Continuous dietary management: Required throughout life
+- Regular monitoring: Phenylalanine levels, growth, development
+- Neuropsychological assessment: Cognitive and behavioral evaluation
+- Transition care: Pediatric to adult healthcare
+
+Outcomes with Treatment
+- Early treatment: Normal or near-normal intelligence
+- Delayed treatment: Some cognitive impairment may persist
+- Adult issues: Executive function deficits, mood disorders
+- Quality of life: Generally good with proper management
+
+Genetic Counseling
+- Inheritance pattern: 25% risk for subsequent children
+- Carrier detection: Possible through genetic testing
+- Prenatal diagnosis: Available through molecular methods
+- Population screening: Carrier frequency varies by ethnicity
+
+Public Health Impact
+- Newborn screening: Prevented thousands of cases of intellectual disability
+- Cost-effectiveness: Screening and treatment highly cost-effective
+- Global implementation: Screening programs worldwide
+- Success story: One of the greatest achievements in preventive medicine
