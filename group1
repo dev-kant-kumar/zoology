@@ -1,0 +1,696 @@
+# MSc Zoology System Physiology Notes
+
+ 2. Excretion
+
+ 2.2 Ornithine Cycle (Urea Cycle)
+
+The ornithine cycle, also known as the urea cycle or Krebs-Henseleit cycle, is the primary mechanism for converting toxic ammonia to less harmful urea in mammals.
+
+ Location and Significance
+- Location: Primarily in liver hepatocytes (some steps in mitochondria, others in cytoplasm)
+- Function: Converts ammonia (NH₃) to urea (CO(NH₂)₂)
+- Evolutionary advantage: Allows terrestrial animals to excrete nitrogenous waste with minimal water loss
+
+ Steps of the Ornithine Cycle
+
+Step 1: Formation of Carbamoyl Phosphate
+- Enzyme: Carbamoyl phosphate synthetase I (CPS I)
+- Location: Mitochondrial matrix
+- Reaction: NH₃ + CO₂ + 2ATP → Carbamoyl phosphate + 2ADP + Pi
+- Regulation: Activated by N-acetylglutamate
+
+Step 2: Formation of Citrulline
+- Enzyme: Ornithine transcarbamoylase
+- Location: Mitochondrial matrix
+- Reaction: Carbamoyl phosphate + Ornithine → Citrulline + Pi
+
+Step 3: Formation of Argininosuccinate
+- Enzyme: Argininosuccinate synthetase
+- Location: Cytoplasm
+- Reaction: Citrulline + Aspartate + ATP → Argininosuccinate + AMP + PPi
+
+Step 4: Formation of Arginine
+- Enzyme: Argininosuccinate lyase
+- Location: Cytoplasm
+- Reaction: Argininosuccinate → Arginine + Fumarate
+
+Step 5: Formation of Urea
+- Enzyme: Arginase
+- Location: Cytoplasm
+- Reaction: Arginine + H₂O → Urea + Ornithine
+
+ Regulation of Urea Cycle
+- Allosteric regulation: N-acetylglutamate activates CPS I
+- Substrate availability: Ammonia concentration directly affects cycle rate
+- Hormonal regulation: Glucagon and cortisol increase enzyme synthesis
+- Nutritional state: High protein diet increases enzyme levels
+
+ Clinical Significance
+- Hyperammonemia: Results from enzyme deficiencies
+- Ornithine transcarbamylase deficiency: Most common urea cycle disorder
+- Treatment: Low protein diet, sodium benzoate, phenylbutyrate
+
+ 2.3 Acid-Base Balance and Homeostasis
+
+Maintenance of blood pH within narrow limits (7.35-7.45) is crucial for proper physiological function.
+
+ Buffer Systems
+
+1. Bicarbonate Buffer System (Most Important)
+- Components: HCO₃⁻/H₂CO₃ pair
+- Henderson-Hasselbalch equation: pH = 6.1 + log([HCO₃⁻]/[H₂CO₃])
+- Normal ratio: 20:1 (HCO₃⁻:H₂CO₃)
+- Effectiveness: pKa (6.1) close to physiological pH
+
+2. Phosphate Buffer System
+- Components: HPO₄²⁻/H₂PO₄⁻
+- Primary location: Intracellular fluid and urine
+- pKa: 6.8 (ideal for intracellular pH)
+
+3. Protein Buffer System
+- Components: Amino acid side chains (histidine, cysteine)
+- Hemoglobin: Major protein buffer in blood
+- Imidazole groups: Primary buffering groups in proteins
+
+ Respiratory Control of pH
+
+Mechanism
+- Central chemoreceptors: Medulla oblongata (respond to CSF pH)
+- Peripheral chemoreceptors: Carotid and aortic bodies (respond to blood pH, pCO₂, pO₂)
+- Response time: Seconds to minutes
+
+Respiratory Acidosis
+- Cause: Hypoventilation, increased CO₂ retention
+- Compensation: Renal HCO₃⁻ retention, H⁺ excretion
+
+Respiratory Alkalosis
+- Cause: Hyperventilation, excessive CO₂ loss
+- Compensation: Renal HCO₃⁻ excretion, H⁺ retention
+
+ Renal Control of pH
+
+Mechanisms of Renal Acid-Base Regulation
+
+1. HCO₃⁻ Reabsorption
+- Location: Primarily proximal tubule (80-90%)
+- Mechanism: Na⁺-H⁺ antiporter, carbonic anhydrase
+- Process: Filtered HCO₃⁻ + secreted H⁺ → H₂CO₃ → CO₂ + H₂O
+
+2. Titratable Acid Excretion
+- Primary buffer: Phosphate (HPO₄²⁻ + H⁺ → H₂PO₄⁻)
+- Location: Distal tubule and collecting duct
+- Regulation: Aldosterone increases H⁺ secretion
+
+3. Ammonium (NH₄⁺) Excretion
+- Formation: Glutamine metabolism in proximal tubule
+- Significance: Major mechanism for net acid excretion
+- Regulation: Increases during chronic acidosis
+
+ Acid-Base Disorders
+
+Metabolic Acidosis
+- Characteristics: Low pH, low HCO₃⁻
+- Causes: Diabetic ketoacidosis, lactic acidosis, renal failure
+- Compensation: Hyperventilation (respiratory alkalosis)
+
+Metabolic Alkalosis
+- Characteristics: High pH, high HCO₃⁻
+- Causes: Vomiting, diuretics, hyperaldosteronism
+- Compensation: Hypoventilation (respiratory acidosis)
+
+ 3. Nervous System
+
+ 3.2 Synaptic Transmission
+
+ 3.2.1 Types of Synapses and Synaptic Knobs
+
+Classification by Structure
+
+1. Chemical Synapses
+- Structure: Synaptic cleft (20-50 nm), pre- and postsynaptic membranes
+- Mechanism: Neurotransmitter release and binding
+- Directionality: Unidirectional transmission
+- Plasticity: High, subject to modulation
+
+2. Electrical Synapses
+- Structure: Gap junctions with connexons
+- Mechanism: Direct ionic current flow
+- Directionality: Bidirectional transmission
+- Speed: Faster than chemical synapses
+
+Classification by Location
+- Axosomatic: Axon terminal to cell body
+- Axodendritic: Axon terminal to dendrite
+- Axoaxonic: Axon terminal to axon (presynaptic modulation)
+- Dendrodendritic: Dendrite to dendrite (reciprocal synapses)
+
+Synaptic Knob Structure
+- Mitochondria: Provide ATP for neurotransmitter synthesis and vesicle recycling
+- Synaptic vesicles: Contain neurotransmitters (40-50 nm diameter)
+- Dense bars/Active zones: Sites of vesicle fusion and transmitter release
+- Voltage-gated Ca²⁺ channels: Trigger exocytosis
+- Synaptic cleft: Contains extracellular matrix proteins
+
+ 3.2.2 Excitatory and Inhibitory Post-Synaptic Potential
+
+Excitatory Post-Synaptic Potential (EPSP)
+
+Characteristics
+- Membrane change: Depolarization (becomes less negative)
+- Ion movement: Na⁺ influx, K⁺ efflux
+- Amplitude: 0.5-2 mV typically
+- Duration: 10-20 ms
+
+Mechanisms
+- Ligand-gated channels: Nicotinic ACh receptors, AMPA glutamate receptors
+- Channel selectivity: Permeable to Na⁺, K⁺, sometimes Ca²⁺
+- Reversal potential: Around 0 mV
+
+Inhibitory Post-Synaptic Potential (IPSP)
+
+Characteristics
+- Membrane change: Hyperpolarization (becomes more negative)
+- Ion movement: Cl⁻ influx, K⁺ efflux
+- Amplitude: 0.5-2 mV typically
+- Duration: 10-100 ms
+
+Mechanisms
+- Ligand-gated channels: GABA-A receptors, glycine receptors
+- Channel selectivity: Permeable to Cl⁻, K⁺
+- Reversal potential: Around -70 to -90 mV
+
+Synaptic Integration
+- Spatial summation: Multiple simultaneous inputs
+- Temporal summation: Rapid sequential inputs
+- Linear summation: EPSPs and IPSPs add algebraically
+- Shunting inhibition: Increased conductance reduces membrane resistance
+
+ 3.2.3 Chemical Transmission and Neurotransmitters
+
+Process of Chemical Transmission
+
+1. Synthesis and Storage
+- Synthesis: In presynaptic terminal or cell body
+- Transport: Axoplasmic transport for neuropeptides
+- Storage: Synaptic vesicles maintain high concentrations
+
+2. Release
+- Trigger: Ca²⁺ influx through voltage-gated channels
+- Mechanism: SNARE proteins mediate vesicle fusion
+- Quantal release: Vesicle contents released as discrete packets
+
+3. Binding and Action
+- Receptor binding: Specific neurotransmitter-receptor interaction
+- Conformational change: Opens ion channels or activates G-proteins
+- Signal transduction: Direct or indirect effects on postsynaptic cell
+
+4. Termination
+- Enzymatic degradation: Acetylcholinesterase, MAO, COMT
+- Reuptake: Transporter proteins remove neurotransmitter
+- Diffusion: Neurotransmitter moves away from synaptic cleft
+
+Major Neurotransmitter Classes
+
+1. Amino Acids
+- Glutamate: Primary excitatory neurotransmitter in CNS
+  - Receptors: AMPA, NMDA, kainate, metabotropic
+  - Functions: Learning, memory, synaptic plasticity
+- GABA: Primary inhibitory neurotransmitter in CNS
+  - Receptors: GABA-A (ionotropic), GABA-B (metabotropic)
+  - Functions: Motor control, anxiety regulation
+- Glycine: Primary inhibitory neurotransmitter in spinal cord
+  - Receptors: Strychnine-sensitive glycine receptors
+  - Functions: Motor neuron control, pain processing
+
+2. Monoamines
+- Dopamine: Motor control, reward, cognition
+  - Receptors: D1-D5 (all metabotropic)
+  - Pathways: Nigrostriatal, mesolimbic, mesocortical
+- Norepinephrine: Arousal, attention, sympathetic activation
+  - Receptors: α1, α2, β1, β2, β3 adrenergic
+  - Functions: Fight-or-flight response, mood regulation
+- Serotonin (5-HT): Mood, sleep, appetite
+  - Receptors: 5-HT1-7 (mostly metabotropic, 5-HT3 ionotropic)
+  - Functions: Depression, anxiety, aggression
+
+3. Acetylcholine
+- Receptors: Nicotinic (ionotropic), muscarinic (metabotropic)
+- Functions: Neuromuscular transmission, autonomic nervous system
+- Degradation: Acetylcholinesterase
+
+4. Neuropeptides
+- Endorphins: Pain modulation, reward
+- Substance P: Pain transmission, inflammation
+- Neuropeptide Y: Appetite regulation, stress response
+
+ 4. Muscle
+
+ 4.5 Muscle Twitch, Summation, Tetanus, and Fatigue
+
+Muscle Twitch
+
+Definition and Characteristics
+- Muscle twitch: Single contraction-relaxation cycle following single stimulus
+- Duration: 10-100 ms depending on fiber type
+- All-or-none: Individual muscle fibers contract maximally or not at all
+
+Phases of Muscle Twitch
+1. Latent period (1-2 ms): Excitation-contraction coupling occurs
+2. Contraction phase (10-40 ms): Cross-bridge cycling, tension development
+3. Relaxation phase (10-100 ms): Ca²⁺ sequestration, tension decline
+
+Summation
+
+Temporal Summation
+- Mechanism: Second stimulus applied before complete relaxation
+- Result: Greater force production than single twitch
+- Ca²⁺ accumulation: Successive stimuli maintain elevated [Ca²⁺]ᵢ
+- Incomplete tetanus: Partial relaxation between stimuli
+
+Spatial Summation (Recruitment)
+- Motor unit recruitment: Activation of additional motor units
+- Size principle: Smaller motor units recruited first
+- Force gradation: Smooth increase in total muscle force
+
+Tetanus
+
+Complete Tetanus
+- Stimulus frequency: High enough to prevent any relaxation
+- Force: 3-4 times greater than single twitch
+- Mechanism: Sustained high [Ca²⁺]ᵢ maintains cross-bridge cycling
+- Plateau phase: Steady-state force production
+
+Incomplete Tetanus (Clonus)
+- Stimulus frequency: Intermediate, allowing partial relaxation
+- Force oscillation: Sawtooth pattern of force development
+- Clinical significance: Abnormal clonus indicates neurological dysfunction
+
+Muscle Fatigue
+
+Definition: Progressive decline in force-generating capacity during sustained activity
+
+Types of Fatigue
+1. High-frequency fatigue: Failure of excitation-contraction coupling
+2. Low-frequency fatigue: Reduced Ca²⁺ sensitivity of contractile proteins
+3. Central fatigue: Reduced neural drive from CNS
+
+Mechanisms of Fatigue
+- Metabolic factors: Accumulation of lactate, inorganic phosphate, ADP
+- Ion imbalances: K⁺ efflux, Na⁺ influx affecting membrane excitability
+- Substrate depletion: ATP, creatine phosphate, glycogen depletion
+- Ca²⁺ handling: Impaired sarcoplasmic reticulum function
+
+ 4.6 Isotonic and Isometric Contraction
+
+Isometric Contraction
+
+Definition: Muscle develops tension without changing length
+
+Characteristics
+- Length: Constant muscle length
+- Tension: Variable, increases with stimulation intensity
+- Joint movement: No movement occurs
+- Energy: Converted to heat rather than mechanical work
+
+Examples
+- Postural maintenance: Holding objects, standing
+- Stabilization: Core muscles during lifting
+- Maximum voluntary contraction: Force testing
+
+Physiological Aspects
+- Cross-bridge cycling: Occurs but no shortening
+- ATP consumption: High due to continuous cross-bridge activity
+- Blood flow: May be compromised due to muscle compression
+
+Isotonic Contraction
+
+Definition: Muscle changes length while maintaining constant tension
+
+Types
+1. Concentric: Muscle shortens while contracting
+2. Eccentric: Muscle lengthens while contracting
+
+Concentric Contractions
+- Force-velocity relationship: Inverse relationship between force and velocity
+- Power output: Maximum at intermediate velocities
+- Energy efficiency: Lower than isometric contractions
+- Examples: Lifting phase of bicep curl, upward phase of squat
+
+Eccentric Contractions
+- Force production: Can generate 1.5-2x greater force than concentric
+- Energy cost: Lower per unit tension than concentric
+- Muscle damage: Greater potential for microscopic damage
+- Examples: Lowering phase of movements, downhill running
+
+Length-Tension Relationship
+- Optimal length: Maximum overlap of actin and myosin filaments
+- Active tension: Force from cross-bridge cycling
+- Passive tension: Force from elastic elements (titin, connective tissue)
+- Total tension: Sum of active and passive components
+
+ 4.7 Cori Cycle
+
+Definition: Metabolic pathway recycling lactate from muscle to glucose in liver
+
+Physiological Significance
+- Lactate disposal: Prevents excessive lactate accumulation
+- Glucose recycling: Maintains blood glucose during exercise
+- Metabolic cooperation: Between muscle and liver tissues
+
+Pathway Steps
+
+In Muscle (Anaerobic Conditions)
+1. Glycolysis: Glucose → Pyruvate + 2 ATP
+2. Lactate formation: Pyruvate + NADH → Lactate + NAD⁺
+3. Lactate release: Into bloodstream via monocarboxylate transporters
+
+In Liver
+1. Lactate uptake: From blood via hepatic circulation
+2. Lactate oxidation: Lactate + NAD⁺ → Pyruvate + NADH
+3. Gluconeogenesis: Pyruvate → Glucose (requires 6 ATP)
+4. Glucose release: Into bloodstream for muscle uptake
+
+Energetics
+- Muscle: Net gain of 2 ATP from glucose
+- Liver: Net cost of 6 ATP for gluconeogenesis
+- Overall: Net cost of 4 ATP per cycle
+- Energy source: Hepatic fatty acid oxidation provides ATP
+
+Regulation
+- Exercise intensity: Higher intensity increases lactate production
+- Hormonal control: Epinephrine, glucagon stimulate hepatic glucose output
+- Substrate availability: Liver glycogen, amino acids for gluconeogenesis
+
+Clinical Relevance
+- Exercise physiology: Lactate threshold, anaerobic capacity
+- Metabolic disorders: Defects in gluconeogenesis enzymes
+- Diabetes: Altered glucose-lactate cycling
+
+ 5. Cardiovascular System
+
+ Myogenic Heart
+
+Definition: Heart generates its own rhythmic contractions independent of nervous stimulation
+
+Cardiac Pacemaker System
+
+Sinoatrial (SA) Node
+- Location: Right atrial wall near superior vena cava
+- Function: Primary pacemaker, sets heart rate
+- Intrinsic rate: 60-100 beats per minute
+- Cell characteristics: Small, few contractile proteins, extensive gap junctions
+
+Atrioventricular (AV) Node
+- Location: Right atrial wall near tricuspid valve
+- Function: Secondary pacemaker, delays conduction
+- Intrinsic rate: 40-60 beats per minute
+- AV delay: 0.1-0.2 seconds allows atrial emptying
+
+His-Purkinje System
+- Bundle of His: Penetrates fibrous skeleton
+- Bundle branches: Right and left divisions
+- Purkinje fibers: Extensive ventricular network
+- Conduction velocity: Fastest in cardiac tissue (4 m/s)
+
+Pacemaker Potential (Phase 4 Depolarization)
+
+Ionic Mechanisms
+1. If current: Hyperpolarization-activated, mixed Na⁺/K⁺ current
+2. ICa,L: L-type Ca²⁺ channels open at threshold
+3. IK: Delayed rectifier K⁺ channels cause repolarization
+4. Decreased IK: Progressive K⁺ channel closure during diastole
+
+Autonomic Modulation
+- Sympathetic: β1-adrenergic stimulation increases If, ICa,L
+- Parasympathetic: M2-muscarinic stimulation decreases If, increases IK,ACh
+- Heart rate variability: Balance between sympathetic and parasympathetic tone
+
+ ECG - Principle and Significance
+
+Basic Principles
+
+Electrical Activity Recording
+- Dipole concept: Separation of positive and negative charges
+- Volume conductor: Body tissues conduct electrical current
+- Lead placement: Electrodes at different body locations
+- Einthoven triangle: Standard limb lead configuration
+
+ECG Waves and Intervals
+
+P Wave
+- Origin: Atrial depolarization
+- Duration: 0.08-0.10 seconds
+- Amplitude: 0.1-0.3 mV
+- Shape: Smooth, rounded, upright in leads I, II, aVF
+
+QRS Complex
+- Origin: Ventricular depolarization
+- Duration: 0.06-0.10 seconds
+- Components: Q (downward), R (upward), S (downward)
+- Amplitude: Variable, largest in precordial leads
+
+T Wave
+- Origin: Ventricular repolarization
+- Shape: Asymmetric, gradual upstroke, rapid downstroke
+- Direction: Generally same as QRS complex
+- Abnormalities: Inversion, peaked, flattened
+
+Intervals and Segments
+- PR interval: 0.12-0.20 seconds (AV conduction time)
+- QT interval: 0.35-0.43 seconds (ventricular electrical activity)
+- ST segment: Isoelectric line between QRS and T wave
+
+Clinical Significance
+
+Rhythm Analysis
+- Sinus rhythm: Regular P-QRS-T sequence, rate 60-100 bpm
+- Arrhythmias: Abnormal heart rhythms
+  - Bradycardia: <60 bpm
+  - Tachycardia: >100 bpm
+  - Atrial fibrillation: Irregular, no distinct P waves
+  - Ventricular tachycardia: Wide QRS, rate >150 bpm
+
+Conduction Abnormalities
+- AV blocks: First, second, third degree
+- Bundle branch blocks: Widened QRS, altered morphology
+- Accessory pathways: Pre-excitation syndromes
+
+Myocardial Infarction
+- ST elevation: Acute transmural injury
+- Q waves: Myocardial necrosis
+- T wave inversions: Ischemia or old infarction
+
+ Cardiac Cycle
+
+Definition: Sequence of events during one heartbeat, typically 0.8 seconds at rest
+
+Phases of Cardiac Cycle
+
+1. Atrial Systole (0.1 seconds)
+- Event: Atrial contraction
+- Pressure changes: Atrial pressure > ventricular pressure
+- Valve status: AV valves open, semilunar valves closed
+- Volume changes: Final 30% ventricular filling
+- ECG correlation: P wave
+
+2. Isovolumic Ventricular Contraction (0.05 seconds)
+- Event: Ventricular contraction begins
+- Pressure changes: Ventricular pressure rises rapidly
+- Valve status: All valves closed
+- Volume changes: No volume change
+- Heart sounds: S1 (lub) - AV valve closure
+
+3. Ventricular Ejection (0.25 seconds)
+
+Rapid Ejection Phase
+- Pressure: Ventricular > arterial pressure
+- Valve status: Semilunar valves open
+- Volume: 70% of stroke volume ejected
+- Flow rate: Maximum aortic flow
+
+Reduced Ejection Phase
+- Pressure: Ventricular pressure begins to fall
+- Flow rate: Decreasing ejection rate
+- End-systolic volume: Minimum ventricular volume
+
+4. Isovolumic Ventricular Relaxation (0.08 seconds)
+- Event: Ventricular relaxation begins
+- Pressure: Ventricular pressure falls rapidly
+- Valve status: All valves closed
+- Heart sounds: S2 (dub) - semilunar valve closure
+
+5. Ventricular Filling (0.4 seconds)
+
+Rapid Filling Phase
+- Mechanism: Passive filling due to pressure gradient
+- Volume: 70% of filling occurs
+- Duration: First third of diastole
+
+Reduced Filling Phase (Diastasis)
+- Mechanism: Slow, passive filling
+- Duration: Middle third of diastole
+- Importance: Allows coronary perfusion
+
+Pressure-Volume Loops
+- X-axis: Left ventricular volume
+- Y-axis: Left ventricular pressure
+- Loop area: Represents stroke work
+- Shape changes: Reflect cardiac function alterations
+
+Cardiac Output Regulation
+- Stroke volume: End-diastolic volume - end-systolic volume
+- Heart rate: SA node firing rate
+- Cardiac output: Stroke volume × heart rate
+- Normal values: 5-6 L/min at rest
+
+ 6. Sense Organs
+
+ Physiology of Vision
+
+Eye Structure and Function
+
+Optical Components
+- Cornea: Primary refractive surface (40-44 diopters)
+- Aqueous humor: Maintains intraocular pressure
+- Lens: Variable focus (15-20 diopters)
+- Vitreous humor: Maintains eye shape, optical clarity
+
+Accommodation
+- Mechanism: Ciliary muscle contraction changes lens shape
+- Near vision: Lens becomes more convex (increased power)
+- Distance vision: Lens flattens (decreased power)
+- Range: 0-15 diopters in young adults
+- Presbyopia: Age-related loss of accommodation
+
+Pupillary Reflexes
+- Light reflex: Pupil constricts in bright light
+- Near reflex: Pupil constricts during accommodation
+- Consensual reflex: Both pupils respond to unilateral stimulation
+
+Retinal Structure and Function
+
+Photoreceptor Cells
+
+Rod Cells
+- Function: Scotopic (dim light) vision
+- Distribution: Peripheral retina, absent in fovea
+- Number: ~120 million per eye
+- Photopigment: Rhodopsin (opsin + 11-cis retinal)
+- Sensitivity: High, can detect single photons
+- Spectral sensitivity: Peak at 500 nm
+
+Cone Cells
+- Function: Photopic (bright light) vision, color detection
+- Distribution: Concentrated in fovea
+- Number: ~6 million per eye
+- Types: S-cones (short, blue), M-cones (medium, green), L-cones (long, red)
+- Photopigments: Different opsins determine spectral sensitivity
+
+Phototransduction Cascade
+1. Light absorption: Isomerizes 11-cis retinal to all-trans retinal
+2. Rhodopsin activation: Conformational change in opsin
+3. G-protein activation: Transducin (Gt) activation
+4. PDE activation: Phosphodiesterase reduces cGMP
+5. Channel closure: Na⁺/Ca²⁺ channels close
+6. Hyperpolarization: Photoreceptor membrane hyperpolarizes
+7. Neurotransmitter reduction: Less glutamate release
+
+Retinal Processing
+
+Vertical Pathway
+- Photoreceptors: Convert light to electrical signals
+- Bipolar cells: ON and OFF types, center-surround organization
+- Ganglion cells: Output neurons to optic nerve
+
+Lateral Processing
+- Horizontal cells: Lateral inhibition, contrast enhancement
+- Amacrine cells: Complex processing, motion detection
+
+Visual Pathways
+
+Optic Pathway
+1. Optic nerve: Axons of retinal ganglion cells
+2. Optic chiasm: Partial decussation of nasal fibers
+3. Optic tract: Continues to lateral geniculate nucleus
+4. Lateral geniculate nucleus: Six-layered relay station
+5. Optic radiations: Geniculocalcarine pathway
+6. Primary visual cortex: Area V1, Brodmann area 17
+
+Visual Field Processing
+- Retinotopic mapping: Spatial organization preserved
+- Binocular vision: Convergence creates depth perception
+- Cortical columns: Ocular dominance and orientation columns
+
+ Physiology of Hearing
+
+Ear Structure and Function
+
+External Ear
+- Pinna: Sound collection and localization
+- External auditory canal: Sound conduction, protection
+- Tympanic membrane: Vibrates in response to sound waves
+
+Middle Ear
+
+Ossicles
+- Malleus: Attached to tympanic membrane
+- Incus: Bridge between malleus and stapes
+- Stapes: Smallest bone, attached to oval window
+
+Function
+- Impedance matching: Overcomes air-fluid interface
+- Amplification: 20-30 dB gain through lever action and area ratio
+- Protection: Tensor tympani and stapedius muscles
+
+Inner Ear (Cochlea)
+
+Structure
+- Scala vestibuli: Contains perilymph, connected to oval window
+- Scala media: Contains endolymph, houses organ of Corti
+- Scala tympani: Contains perilymph, connected to round window
+- Basilar membrane: Supports organ of Corti, frequency analysis
+
+Organ of Corti
+- Hair cells: Mechanotransducers
+  - Inner hair cells: Primary sensory cells (~3,500)
+  - Outer hair cells: Amplification and tuning (~12,000)
+- Supporting cells: Structural and metabolic support
+- Tectorial membrane: Overlies stereocilia
+
+Mechanotransduction
+
+Process
+1. Sound waves: Cause basilar membrane displacement
+2. Stereocilia deflection: Hair cell stereocilia bend
+3. Tip links: Connect adjacent stereocilia
+4. Mechanotransduction channels: K⁺-selective channels open
+5. Depolarization: K⁺ influx from endolymph
+6. Neurotransmitter release: Glutamate at afferent synapses
+
+Frequency Coding
+- Place principle: Different frequencies activate different basilar membrane locations
+- Traveling wave: Wave propagation along basilar membrane
+- Base: High frequency (20 kHz), stiff basilar membrane
+- Apex: Low frequency (20 Hz), flexible basilar membrane
+
+Amplitude Coding
+- Hair cell grading: Graded receptor potentials
+- Nerve fiber recruitment: More fibers activated with louder sounds
+- Dynamic range: 120 dB range of hearing
+
+Auditory Pathways
+
+Central Auditory System
+1. Spiral ganglion: Primary auditory neurons
+2. Cochlear nuclei: First central processing station
+3. Superior olivary complex: Binaural processing, localization
+4. Lateral lemniscus: Ascending auditory tract
+5. Inferior colliculus: Integration and reflexes
+6. Medial geniculate nucleus: Thalamic relay
+7. Primary auditory cortex: Conscious perception
+
+Sound Localization
+- Interaural time differences: Low frequency sounds
+- Interaural intensity differences: High frequency sounds
+- Head-related transfer function: Pinna and head shape effects
+
